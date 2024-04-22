@@ -1,5 +1,4 @@
-This document describes/defines FILL-THIS-OUT in the [Virtual
-Observatory](https://ivoa.net)
+This document describes Time related metadata necessary to extend data discovery using the ObsCore data model specification from the [Virtual Observatory ObsCore DM](https://ivoa.net/DM/ObsCore).
 
 Stable versions of this document are available through the [IVOA
 document repository](http://ivoa.net/documents/).
